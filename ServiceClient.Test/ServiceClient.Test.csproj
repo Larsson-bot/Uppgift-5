@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IoT_Testing_1,5\IoT_Testing_1,5.csproj" />
+    <ProjectReference Include="..\IoT_Testing_1,5\ServiceClient.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IotTesting_1", "IotTesting_1\IotTesting_1.csproj", "{76210975-48CD-41C5-A300-B11228C58DB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeviceClient", "IotTesting_1\DeviceClient.csproj", "{76210975-48CD-41C5-A300-B11228C58DB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoT_Testing_1,5", "IoT_Testing_1,5\IoT_Testing_1,5.csproj", "{EC70D0B2-D943-460C-90DC-28248F081310}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceClient", "IoT_Testing_1,5\ServiceClient.csproj", "{EC70D0B2-D943-460C-90DC-28248F081310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceClient.Test", "ServiceClient.Test\ServiceClient.Test.csproj", "{EB95D9C6-2A22-4F40-BCA5-2B3AEDE49492}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceClient.Test", "ServiceClient.Test\ServiceClient.Test.csproj", "{EB95D9C6-2A22-4F40-BCA5-2B3AEDE49492}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
