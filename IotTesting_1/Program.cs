@@ -1,7 +1,7 @@
 ﻿using IotTesting_1.Models;
 using System;
 
-namespace IotTesting_1
+namespace DeviceClient
 {
     class Program
     {

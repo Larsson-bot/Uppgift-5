@@ -2,7 +2,7 @@
 using System;
 using System.Threading.Tasks;
 
-namespace IoT_Testing_1_5
+namespace ServiceClient
 {
     class Program
     {
